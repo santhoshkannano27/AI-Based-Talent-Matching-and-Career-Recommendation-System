@@ -1,4 +1,4 @@
-# 📄 AI-Based Resume Screening and Job Recommendation System
+# 📄 AI-Based-Talent-Matching-and-Career-Recommendation-System
 
 An offline, rule-based + TF-IDF powered system that:
 
